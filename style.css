@@ -1,0 +1,90 @@
+.title {
+	margin: auto;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 67px;
+	color: black;
+}
+
+.subtitle {
+	margin: auto;
+	padding-left: 10%;
+	font-family: "Merriweather", "Georgia", serif;
+	font-size: 25px;
+	color: #B22222;
+}
+
+.author {
+	margin: auto;
+	padding-right: 10%;
+	text-align: right;
+	font-family: "Merriweather", "Georgia", serif;
+	font-size: 15px;
+	color: gray;
+}
+
+.topic {
+	margin: auto;
+	text-align: left;
+	font-family: "Merriweather", "Georgia", serif;
+	font-size: 45px;
+	color: #8B0000;
+}
+
+.subtopic {
+	margin: auto;
+	text-align: left;
+	padding-left: 5px;
+	font-family: "Merriweather", "Georgia", serif;
+	font-size: 22px;
+	color: #8B0000;
+}
+
+.content {
+	font-size: 14px;
+	color: #784f4f;
+	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+a {
+	text-decoration: none;
+	font-family: "Merriweather", "Georgia", serif;
+	font-size: 18px;
+	color: #cd5c5c;
+}
+
+table, th, td {
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    font-family: "Merriweather", "Georgia", serif;
+    font-size: 13px;
+}
+
+hr {
+	height:1px; 
+	background: #fff 
+}
+
+.links {
+	margin: auto;
+	width: 58%; 
+}
+.header {
+	margin: auto;
+	width: 70%; 
+	padding-bottom: 10px;
+}
+
+.main {
+	margin: auto;
+	width: 70%;
+	padding-top: 10px;
+}
+
+.indent {
+	padding-left: 18px;
+}
